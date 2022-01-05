@@ -1,1 +1,2 @@
-# infinite-scroll
+# Infinite Scroll
+Testing some javascript functionalities
