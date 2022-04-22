@@ -49,7 +49,8 @@ h1 {
 }
 
 .image-container img {
-   width: 100%; 
+   width: 20%; 
+   object-fit: contain;
 }
 
 /* Media Query: Large Smartphone */
