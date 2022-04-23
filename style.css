@@ -35,7 +35,7 @@ h1 {
     top: 50%;
     left: 50%;
     transform: translate(-50%,-50%);
-    width: px;
+    width: 100px;
     height: auto;
     
 
@@ -44,13 +44,16 @@ h1 {
 /* Image container */
 
 .image-container {
-    margin: 5px 30%;
+    margin: 5px 15%;
+
 
 }
 
 .image-container img {
-   width: 20%; 
-   object-fit: contain;
+   width: 200px;
+   height: 200px; 
+   margin: 5px 5px;
+   object-fit: cover;
 }
 
 /* Media Query: Large Smartphone */
